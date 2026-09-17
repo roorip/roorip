@@ -1,17 +1,9 @@
-# 👋 Hi, I'm Mingyu
+# 👋 안녕하세요 한성대학교 컴퓨터공학부 소속 전민규 입니다.
 
 컴퓨터공학을 공부하며 다양한 개발 경험을 쌓고 있습니다.
 
-Unity/C# 게임 개발, Android 앱 개발, 데이터베이스와 SQL 등을 공부하며  
+Unity/C# 게임 개발을 위주로 활동하고 있으며, 추가적으로 Android 앱 개발, 데이터베이스와 SQL 등을 공부하며  
 작은 프로젝트부터 하나씩 만들어가고 있습니다.
-
----
-
-## 📊 GitHub Stats
-
-![Mingyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=roorip&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roorip&layout=compact)
 
 ---
 
